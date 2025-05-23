@@ -1,4 +1,4 @@
-e# 👋 Hi there, I'm Ephraim
+# 👋 Hi there, I'm Ephraim
 
 🎯 I'm an aspiring AI & full-stack developer, passionate about building smart applications and making tech accessible through code and content.
 Currently diving deep into **machine learning**, **web development**, and **educational content creation**.
@@ -54,18 +54,12 @@ Stay tuned for more projects and educational content!
 
 ---
 
-## 🔥 Contributions
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ephraimemad&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📫 Connect With Me
 
-* 🌐 Portfolio: [ephraimemad.github.io/Portofolio](https://ephraimemad.github.io/Portofolio)
-* 📷 Instagram: [@EPHRAIM\_EMAD](https://instagram.com/EPHRAIM_EMAD)
-* 💼 LinkedIn: [linkedin.com/in/ephraimemad](https://linkedin.com/in/ephraimemad)
-* 📧 Email: [ephraimemad56@gmail.com](mailto:ephraimemad56@gmail.com)
+* [🌐 Portfolio](https://ephraimemad.github.io/Portofolio)
+* [📷 Instagram](https://instagram.com/EPHRAIM_EMAD)
+* [💼 LinkedIn](https://linkedin.com/in/ephraimemad)
+* [📧 Email](mailto:ephraimemad56@gmail.com)
 
 ---
 
