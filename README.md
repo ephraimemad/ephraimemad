@@ -33,7 +33,7 @@ A portfolio site showcasing my work, tutorials, and coding Reels.
 
 ## 🎓 Currently Learning
 
-* Machine Learning (Mosh Hamedani's ML Roadmap – Day #XX/100)
+* Machine Learning
 * AWS for model deployment
 * Git & version control best practices
 
@@ -54,12 +54,18 @@ Stay tuned for more projects and educational content!
 
 ---
 
+## 🔥 Contributions
+
+![Ephraim's GitHub Contributions](https://github-contribution-grid.vercel.app/api?username=ephraimemad\&theme=radical)
+
+---
+
 ## 📫 Connect With Me
 
-* [🌐 Portfolio](https://ephraimemad.github.io/Portofolio)
-* [📷 Instagram](https://instagram.com/EPHRAIM_EMAD)
-* [💼 LinkedIn](https://linkedin.com/in/ephraimemad)
-* [📧 Email](mailto:ephraimemad56@gmail.com)
+* 🌐 Portfolio: [ephraimemad.github.io/Portofolio](https://ephraimemad.github.io/Portofolio)
+* 📷 Instagram: [@EPHRAIM\_EMAD](https://instagram.com/EPHRAIM_EMAD)
+* 💼 LinkedIn: [linkedin.com/in/ephraimemad](https://linkedin.com/in/ephraimemad)
+* 📧 Email: [ephraimemad56@gmail.com](mailto:ephraimemad56@gmail.com)
 
 ---
 
